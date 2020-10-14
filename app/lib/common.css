@@ -6,16 +6,7 @@ body {
 }
 
 html,
-body {
-    font-family: "Microsoft YaHei", arial, sans-serif;
-    -ms-text-size-adjust: 100%;
-    -webkit-text-size-adjust: 100%;
-    margin: 0;
-    padding: 0;
-    color: #333;
-    width: 100%;
-    background: #fff;
-}
+
 
 input,
 ul,
