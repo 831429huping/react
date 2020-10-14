@@ -26,7 +26,7 @@ let Like = React.createClass({
 	},
 
 	render: function() {
-		let countId = 0;
+		let countId = 20;
 		return (
 			<div id="like">
 				
