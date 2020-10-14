@@ -29,7 +29,7 @@ let Like = React.createClass({
 		let countId = 0;
 		return (
 			<div id="like">
-				<p>猜你喜欢</p>
+				
 				{
 					this.state.stores.map((item) => {
 						return <div className="like_content" key={"like" + countId++}>
